@@ -1,0 +1,21 @@
+/* font-family: 'Abril Fatface', cursive; */
+/* font-family: 'Montserrat', sans-serif; */
+
+*{
+  box-sizing: border-box;
+  font-family:'Montserrat';
+}
+#brand-title{
+  font-family: 'Abril Fatface', cursive;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,36 @@
+.left,
+.right {
+  height: 100%;
+}
+.left{
+  margin-right: 16px;
+  margin-left: 20px;
+}
+
+.right {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+  margin-right: 40px;
+}
+.right::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.data-items {
+  background-color: aliceblue;
+  padding: 8px;
+  margin: 8px;
+  font-size: 13px;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+ 
+  overflow: hidden;
+}

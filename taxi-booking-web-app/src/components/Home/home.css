@@ -1,0 +1,33 @@
+.title{
+    margin: 5rem 0;
+}
+
+a{
+    margin-bottom: 12px;
+}
+
+.home{
+    background-image: url('../../../public/image/pexels-joshua-woroniecki-2570216.jpg');
+    background-position: center 60%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-panel h2{
+    margin: 0 0 3rem 0;
+    color: var(--primary);
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.home-foot{
+    position: absolute;
+    z-index: 10;
+    bottom: 10px;
+    color: white;
+}
