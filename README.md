@@ -1,5 +1,10 @@
 # Taxi-Booking-With-AWS
-This project is a simulation of a taxis booking system with an interactive frontend built using React.js and Leaflet.js to visualize the simulation on a map. While the backend can be an implementation of one of the servers - one using AWS EC2 and Nginx for hosting and the other using AWS Lambda with API Gateway for serverless architecture. Additionally, the database can be setup using DocumentDB or MongoDB - to store user data, geolocation, and more.
+This project is demonstrate a simple simulation of a taxis booking system with an interactive frontend built using React.js and Leaflet.js to visualize the simulation on a map. While the backend can be an implementation of one of the servers - one using AWS EC2 and Nginx for hosting and the other using AWS Lambda with API Gateway for serverless architecture. Additionally, the database can be setup using DocumentDB or MongoDB - to store user data, geolocation, and more.
+
+# Screenshot
+![lambda functios](https://github.com/Benlamar/Taxi-Booking-With-AWS/blob/main/screenschot/Untitled.jpg)
+
+![Customer panel](https://github.com/Benlamar/Taxi-Booking-With-AWS/blob/main/screenschot/map%20pick.jpg)
 
 # Prerequisites
 Before running the Taxis Booking Simulation Web App, ensure that you have the following:
